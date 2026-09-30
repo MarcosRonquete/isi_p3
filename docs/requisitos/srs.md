@@ -268,6 +268,12 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
+|Paciente | Persona con Enfermedad Inflamatoria Intestinal (EII) que utiliza la plataforma para gestionar información relacionada con su salud, dieta, recetas y participación en la comunidad.|UR-05; BO-01, BO-02|
+|Cuidador|	Persona que presta cuidados a uno o varios pacientes y que puede acceder a los datos de salud que cada paciente le autorice. La relación de cuidado requiere la autorización expresa del paciente.|	FR-193, FR-194, FR-201, FR-208–FR-2121|
+|Nutricionista	|Profesional que utiliza la plataforma para aportar contenido relacionado con nutrición y bienestar y que, tras la verificación de su documentación profesional, puede publicar consejos y validar recetas propuestas por pacientes o cuidadores.|	UR-07; FR-014, FR-083, FR-191, FR-205|
+|Coordinador	|Persona responsable de tareas de administración y moderación de la plataforma, incluyendo la gestión de cuentas, la revisión de contenido y la aplicación de las políticas de la plataforma.	|UR-10, UR-13; FR-132–FR-152, FR-181–FR-187|
+|Dato fisiológico	|Dato relacionado con el estado físico del paciente que puede registrarse y consultarse en la plataforma, como peso, altura, presión arterial, frecuencia cardíaca o temperatura corporal.	|UR-05; FR-041, FR-049, FR-050|
+|Dato de salud	|Información relacionada con el estado de salud del paciente gestionada en la plataforma, incluyendo datos fisiológicos, resultados de análisis, síntomas y notas, y cuyo acceso puede autorizarse a determinados profesionales o cuidadores.|	UR-05; FR-042, FR-045, FR-047, FR-201|
 
 ## 10. Modelos de análisis
 
